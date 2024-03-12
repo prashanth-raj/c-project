@@ -12,7 +12,8 @@
         for (i = 1; i <= n; ++i) {
             fact *= i;
         }
-        printf("Factorial of %d = %llu", n, fact);
+        printf("Factorial of %d = %llu \n\n", n, fact);
+	printf("this is an edit from Ubuntu server");
     }
 
    // return 0;
